@@ -3,8 +3,8 @@
 An adversary may list files on a misconfigured server.
 
 ## Example #1
-1. Adversary targets a vulnerable server 
-2. Adversary lunches a brute-force attack to find open resources
+1. Adversary scans server for "index of"
+2. Adversary finds misconfigured server and scrapes some sensitive data
 
 ## Impact
 high
